@@ -64,60 +64,60 @@ The table below is sorted by **Company Size (Valuation / Revenue) descending**:
 
 ## 🛠️ Open-Source GitHub Projects
 
-The list below features open-source repositories, calculation engines, and tools sorted by **GitHub Stars descending**:
+The list below features open-source repositories, calculation engines, and tools sorted by **GitHub_Stars descending**:
 
-- **[jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation)** [![GitHub stars](https://img.shields.io/github/stars/jlevy/og-equity-compensation?style=social&color=white)](https://github.com/jlevy/og-equity-compensation/stargazers)  
+- **[jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation)** [![GitHub_Stars](https://img.shields.io/github/stars/jlevy/og-equity-compensation?style=social&color=white)](https://github.com/jlevy/og-equity-compensation/stargazers)  
   *Comprehensive open guide to equity compensation, stock options, RSUs, variable incentives, and tax structuring for startups and enterprises.* 🌟
 
-- **[OCA Commission (Odoo)](https://github.com/OCA/commission)** [![GitHub stars](https://img.shields.io/github/stars/OCA/commission?style=social&color=white)](https://github.com/OCA/commission/stargazers)  
+- **[OCA Commission (Odoo)](https://github.com/OCA/commission)** [![GitHub_Stars](https://img.shields.io/github/stars/OCA/commission?style=social&color=white)](https://github.com/OCA/commission/stargazers)  
   *Leading open-source commission management modules for Odoo ERP — handles sales agent commissions, tiered formulas, product criteria, and accounting entries.* 📦
 
-- **[dvdl16/erpnext_sales_commission_details](https://github.com/dvdl16/erpnext_sales_commission_details)** [![GitHub stars](https://img.shields.io/github/stars/dvdl16/erpnext_sales_commission_details?style=social&color=white)](https://github.com/dvdl16/erpnext_sales_commission_details/stargazers)  
+- **[dvdl16/erpnext_sales_commission_details](https://github.com/dvdl16/erpnext_sales_commission_details)** [![GitHub_Stars](https://img.shields.io/github/stars/dvdl16/erpnext_sales_commission_details?style=social&color=white)](https://github.com/dvdl16/erpnext_sales_commission_details/stargazers)  
   *Detailed reporting and calculation module showing partner & sales rep commissions per invoice, grouped by customer for ERPNext.* 📑
 
-- **[avinashvaidya09/sales-commission](https://github.com/avinashvaidya09/sales-commission)** [![GitHub stars](https://img.shields.io/github/stars/avinashvaidya09/sales-commission?style=social&color=white)](https://github.com/avinashvaidya09/sales-commission/stargazers)  
+- **[avinashvaidya09/sales-commission](https://github.com/avinashvaidya09/sales-commission)** [![GitHub_Stars](https://img.shields.io/github/stars/avinashvaidya09/sales-commission?style=social&color=white)](https://github.com/avinashvaidya09/sales-commission/stargazers)  
   *Full-stack sales commission calculation application for managing rep incentive structures and tracking monthly payouts.* 💻
 
-- **[ayangzy/laravel-sales-commission](https://github.com/ayangzy/laravel-sales-commission)** [![GitHub stars](https://img.shields.io/github/stars/ayangzy/laravel-sales-commission?style=social&color=white)](https://github.com/ayangzy/laravel-sales-commission/stargazers)  
+- **[ayangzy/laravel-sales-commission](https://github.com/ayangzy/laravel-sales-commission)** [![GitHub_Stars](https://img.shields.io/github/stars/ayangzy/laravel-sales-commission?style=social&color=white)](https://github.com/ayangzy/laravel-sales-commission/stargazers)  
   *A comprehensive sales commission calculation and management engine package for Laravel web applications.* ⚙️
 
-- **[Azeemaj101/Sales-Commission-Calculator](https://github.com/Azeemaj101/Sales-Commission-Calculator)** [![GitHub stars](https://img.shields.io/github/stars/Azeemaj101/Sales-Commission-Calculator?style=social&color=white)](https://github.com/Azeemaj101/Sales-Commission-Calculator/stargazers)  
+- **[Azeemaj101/Sales-Commission-Calculator](https://github.com/Azeemaj101/Sales-Commission-Calculator)** [![GitHub_Stars](https://img.shields.io/github/stars/Azeemaj101/Sales-Commission-Calculator?style=social&color=white)](https://github.com/Azeemaj101/Sales-Commission-Calculator/stargazers)  
   *Calculation tool implementing multi-tier gross commission algorithms and variable compensation rules.* 🧮
 
-- **[jadamduff/commission-tracker](https://github.com/jadamduff/commission-tracker)** [![GitHub stars](https://img.shields.io/github/stars/jadamduff/commission-tracker?style=social&color=white)](https://github.com/jadamduff/commission-tracker/stargazers)  
+- **[jadamduff/commission-tracker](https://github.com/jadamduff/commission-tracker)** [![GitHub_Stars](https://img.shields.io/github/stars/jadamduff/commission-tracker?style=social&color=white)](https://github.com/jadamduff/commission-tracker/stargazers)  
   *App allowing sales managers and employees to register deals, configure margin targets, and track sales commission payouts.* 📱
 
-- **[TheWorkflowAcademy/Sales-commissions-dashboard](https://github.com/TheWorkflowAcademy/Sales-commissions-dashboard)** [![GitHub stars](https://img.shields.io/github/stars/TheWorkflowAcademy/Sales-commissions-dashboard?style=social&color=white)](https://github.com/TheWorkflowAcademy/Sales-commissions-dashboard/stargazers)  
+- **[TheWorkflowAcademy/Sales-commissions-dashboard](https://github.com/TheWorkflowAcademy/Sales-commissions-dashboard)** [![GitHub_Stars](https://img.shields.io/github/stars/TheWorkflowAcademy/Sales-commissions-dashboard?style=social&color=white)](https://github.com/TheWorkflowAcademy/Sales-commissions-dashboard/stargazers)  
   *Real-time analytics dashboard template to track salesperson commissions in Zoho Analytics connected with Zoho Books / Zoho CRM.* 📊
 
-- **[Illvzixn/Commission-Analytics-PowerBi-Project](https://github.com/Illvzixn/Commission-Analytics-PowerBi-Project)** [![GitHub stars](https://img.shields.io/github/stars/Illvzixn/Commission-Analytics-PowerBi-Project?style=social&color=white)](https://github.com/Illvzixn/Commission-Analytics-PowerBi-Project/stargazers)  
+- **[Illvzixn/Commission-Analytics-PowerBi-Project](https://github.com/Illvzixn/Commission-Analytics-PowerBi-Project)** [![GitHub_Stars](https://img.shields.io/github/stars/Illvzixn/Commission-Analytics-PowerBi-Project?style=social&color=white)](https://github.com/Illvzixn/Commission-Analytics-PowerBi-Project/stargazers)  
   *Power BI dashboard tracking quota attainment, commission payouts, accelerator multipliers, and regional sales effectiveness.* 📉
 
-- **[jjeanius/rails_project_sales_commission_application](https://github.com/jjeanius/rails_project_sales_commission_application)** [![GitHub stars](https://img.shields.io/github/stars/jjeanius/rails_project_sales_commission_application?style=social&color=white)](https://github.com/jjeanius/rails_project_sales_commission_application/stargazers)  
+- **[jjeanius/rails_project_sales_commission_application](https://github.com/jjeanius/rails_project_sales_commission_application)** [![GitHub_Stars](https://img.shields.io/github/stars/jjeanius/rails_project_sales_commission_application?style=social&color=white)](https://github.com/jjeanius/rails_project_sales_commission_application/stargazers)  
   *Ruby on Rails system for retail market sales commission management, payout schedules, and salesperson dashboards.* 💎
 
-- **[renanbernardelli/Sales-Commission-Calculation](https://github.com/renanbernardelli/Sales-Commission-Calculation)** [![GitHub stars](https://img.shields.io/github/stars/renanbernardelli/Sales-Commission-Calculation?style=social&color=white)](https://github.com/renanbernardelli/Sales-Commission-Calculation/stargazers)  
+- **[renanbernardelli/Sales-Commission-Calculation](https://github.com/renanbernardelli/Sales-Commission-Calculation)** [![GitHub_Stars](https://img.shields.io/github/stars/renanbernardelli/Sales-Commission-Calculation?style=social&color=white)](https://github.com/renanbernardelli/Sales-Commission-Calculation/stargazers)  
   *JavaScript and HTML tool for interactive sales commission rules, bracket simulation, and percentage adjustments.* 🌐
 
-- **[ManiruzzamanAkash/commission-calculator](https://github.com/ManiruzzamanAkash/commission-calculator)** [![GitHub stars](https://img.shields.io/github/stars/ManiruzzamanAkash/commission-calculator?style=social&color=white)](https://github.com/ManiruzzamanAkash/commission-calculator/stargazers)  
+- **[ManiruzzamanAkash/commission-calculator](https://github.com/ManiruzzamanAkash/commission-calculator)** [![GitHub_Stars](https://img.shields.io/github/stars/ManiruzzamanAkash/commission-calculator?style=social&color=white)](https://github.com/ManiruzzamanAkash/commission-calculator/stargazers)  
   *Clean PHP commission calculation engine with unit tests and transaction CSV ingestion.* 🐘
 
-- **[humanytek-team/sales_commission_product_subcategory](https://github.com/humanytek-team/sales_commission_product_subcategory)** [![GitHub stars](https://img.shields.io/github/stars/humanytek-team/sales_commission_product_subcategory?style=social&color=white)](https://github.com/humanytek-team/sales_commission_product_subcategory/stargazers)  
+- **[humanytek-team/sales_commission_product_subcategory](https://github.com/humanytek-team/sales_commission_product_subcategory)** [![GitHub_Stars](https://img.shields.io/github/stars/humanytek-team/sales_commission_product_subcategory?style=social&color=white)](https://github.com/humanytek-team/sales_commission_product_subcategory/stargazers)  
   *Odoo addon for automatic tiered commission calculation categorized by product lines and subcategories.* 🏷️
 
-- **[codeback/openerp-sale_commission](https://github.com/codeback/openerp-sale_commission)** [![GitHub stars](https://img.shields.io/github/stars/codeback/openerp-sale_commission?style=social&color=white)](https://github.com/codeback/openerp-sale_commission/stargazers)  
+- **[codeback/openerp-sale_commission](https://github.com/codeback/openerp-sale_commission)** [![GitHub_Stars](https://img.shields.io/github/stars/codeback/openerp-sale_commission?style=social&color=white)](https://github.com/codeback/openerp-sale_commission/stargazers)  
   *OpenERP / Odoo extension for managing sales agent commissions and payout settlement.* 🔧
 
-- **[andreacometa/salesagent_commissions](https://github.com/andreacometa/salesagent_commissions)** [![GitHub stars](https://img.shields.io/github/stars/andreacometa/salesagent_commissions?style=social&color=white)](https://github.com/andreacometa/salesagent_commissions/stargazers)  
+- **[andreacometa/salesagent_commissions](https://github.com/andreacometa/salesagent_commissions)** [![GitHub_Stars](https://img.shields.io/github/stars/andreacometa/salesagent_commissions?style=social&color=white)](https://github.com/andreacometa/salesagent_commissions/stargazers)  
   *Sales agent commission calculation and settlement tracking module for open ERPs.* 🤝
 
-- **[hamaswa/SCS](https://github.com/hamaswa/SCS)** [![GitHub stars](https://img.shields.io/github/stars/hamaswa/SCS?style=social&color=white)](https://github.com/hamaswa/SCS/stargazers)  
+- **[hamaswa/SCS](https://github.com/hamaswa/SCS)** [![GitHub_Stars](https://img.shields.io/github/stars/hamaswa/SCS?style=social&color=white)](https://github.com/hamaswa/SCS/stargazers)  
   *Sales Commission System backend application for managing sales rep commission allocations.* 🖥️
 
-- **[MikeMordec/SalesCommissionCalculator-](https://github.com/MikeMordec/SalesCommissionCalculator-)** [![GitHub stars](https://img.shields.io/github/stars/MikeMordec/SalesCommissionCalculator-?style=social&color=white)](https://github.com/MikeMordec/SalesCommissionCalculator-/stargazers)  
+- **[MikeMordec/SalesCommissionCalculator-](https://github.com/MikeMordec/SalesCommissionCalculator-)** [![GitHub_Stars](https://img.shields.io/github/stars/MikeMordec/SalesCommissionCalculator-?style=social&color=white)](https://github.com/MikeMordec/SalesCommissionCalculator-/stargazers)  
   *Python tool for calculating commissions, gross income, and variable pay for salespeople based on sales data.* 🐍
 
-- **[RCushmaniii/comp-plan-simulator](https://github.com/RCushmaniii/comp-plan-simulator)** [![GitHub stars](https://img.shields.io/github/stars/RCushmaniii/comp-plan-simulator?style=social&color=white)](https://github.com/RCushmaniii/comp-plan-simulator/stargazers)  
+- **[RCushmaniii/comp-plan-simulator](https://github.com/RCushmaniii/comp-plan-simulator)** [![GitHub_Stars](https://img.shields.io/github/stars/RCushmaniii/comp-plan-simulator?style=social&color=white)](https://github.com/RCushmaniii/comp-plan-simulator/stargazers)  
   *Interactive open tool for modeling commission structures, overrides, and financial impact before rolling out plan changes.* 🧪
 
 ---
