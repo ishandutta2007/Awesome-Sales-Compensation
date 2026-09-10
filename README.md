@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[CaptivateIQ](https://www.captivateiq.com/)**  
-
-  Modern no-code / spreadsheet-style incentive compensation platform with strong plan design, calculation engine, and connected planning capabilities.
-
-
-
-- **[Xactly](https://www.xactlycorp.com/)**  
-
-  Enterprise sales performance management suite with mature commission calculation, benchmarking, territory, and forecasting features.
-
-
-
-- **[Everstage](https://www.everstage.com/)**  
-
-  AI-assisted sales compensation platform focused on fast plan modeling, accurate calculations, audit trails, and rep-facing statements.
-
-
-
-- **[QuotaPath](https://www.quotapath.com/)**  
-
-  Accessible commission tracking and plan management platform popular with growing SMB and mid-market teams; transparent pricing and CRM integrations.
-
-
-
-- **[Varicent](https://www.varicent.com/)**  
-
-  Enterprise SPM and incentive compensation solution known for handling high plan complexity and advanced analytics.
-
-
-
-- **[Performio](https://www.performio.co/)**  
-
-  Sales compensation and performance management platform with plan templates, component-based design, and CRM connectivity.
-
-
-
-- **[Spiff (Salesforce)](https://www.salesforce.com/)**  
-
-  Native Salesforce commission and incentive solution providing real-time visibility and tight Sales Cloud integration.
-
-
-
-- **[Iconixx](https://www.iconixx.com/)**  
-
-  Incentive compensation and sales performance management platform focused on complex plan administration.
-
-
-
-- **[SalesCookie](https://www.salescookie.com/)**  
-
-  Commission tracking and sales compensation tool aimed at transparency and simpler plan administration.
-
-
-
-- **[Anaplan Incentive Compensation / SPM](https://www.anaplan.com/)**  
-
-  Connected planning platform that links incentive compensation with broader finance, territory, and sales planning processes.
+| Product | Description | Pricing (Starting / Base Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[QuotaPath](https://www.quotapath.com/)** | Accessible commission tracking and plan management platform popular with growing SMB and mid-market teams; transparent pricing and CRM integrations. | Starts at **$525/month platform fee** (billed annually, includes first 5 users) + **$35/user/month** for additional users on Growth tier (**$50/user/month** on Premium) | **14-day free trial** with full access to plan building, CRM integrations, and tracking; permanent free Comp Plan Builder tool on website |
+| **[SalesCookie](https://www.salescookie.com/)** | Commission tracking and sales compensation tool aimed at transparency and simpler plan administration. | **$40/user/month** for Business Plan (billed monthly/annually per active payee) | **14-day free trial** (no credit card required, full Business features; limits: up to 100k transactions, 25 plans, 1k calculations) |
+| **[Spiff (Salesforce)](https://www.salesforce.com/products/spm/)** | Native Salesforce commission and incentive solution providing real-time visibility and tight Sales Cloud integration. | **$75/user/month** base license (Salesforce ICM, billed annually); optional external non-Salesforce connectors at **$250/connector/month** | **No self-service free trial** (Salesforce provides customized product sandbox walkthroughs and live demos on request) |
+| **[CaptivateIQ](https://www.captivateiq.com/)** | Modern no-code / spreadsheet-style incentive compensation platform with strong plan design, calculation engine, and connected planning capabilities. | Starts at **~$55–$60/user/month** (annual contracts; typical entry contract baseline ~$12,000–$15,000/year based on payee count) | **No self-service free trial** (free interactive self-guided tour on website; custom proof-of-concept modeled during sales demo) |
+| **[Everstage](https://www.everstage.com/)** | AI-assisted sales compensation platform focused on fast plan modeling, accurate calculations, audit trails, and rep-facing statements. | Starts at **~$40–$50/payee/month** (typical entry annual contracts start at ~$30,000/year; median ACV ~$41,140/year) | **No self-service free trial** (provides a free custom Proof of Concept modeling actual compensation plans prior to contract signing) |
+| **[Performio](https://www.performio.co/)** | Sales compensation and performance management platform with plan templates, component-based design, and CRM connectivity. | Starts at **~$50/user/month** (billed annually; entry-level annual contracts typically start at ~$30,000/year + implementation) | **No self-service free trial** (offers guided product evaluation and custom live demo sessions upon request) |
+| **[Varicent](https://www.varicent.com/)** | Enterprise SPM and incentive compensation solution known for handling high plan complexity and advanced analytics. | Starts at **~$56–$70/user/month** (annual enterprise commitments typically start at ~$30,000–$50,000/year based on payees) | **No self-service free trial** (enterprise evaluation via personalized demo environments and structured POCs) |
+| **[Xactly](https://www.xactlycorp.com/)** | Enterprise sales performance management suite with mature commission calculation, benchmarking, territory, and forecasting features. | Starts at **~$60/user/month** (~$720/user/year; base entry deployments start at ~$20,000+/year depending on modules) | **No self-service free trial** (offers scheduled custom product demonstrations and workflow scoping sessions) |
+| **[Iconixx](https://www.iconixx.com/)** | Incentive compensation and sales performance management platform focused on complex plan administration. | Starts at **$8,500/year** (base contract tier for core plan administration; scales by payee count and complexity) | **No standard self-service free trial** (offers interactive personalized demos; promotional 1-month trial credit occasionally available upon sign-up) |
+| **[Anaplan Incentive Compensation / SPM](https://www.anaplan.com/)** | Connected planning platform that links incentive compensation with broader finance, territory, and sales planning processes. | Starts at **~$30,000–$50,000/year** for entry-level deployments (median contract ~$100,000/year; tiered by Model Builder, Contributor, and Viewer seats) | **No commercial free trial** (offers a **90-day free trial workspace** strictly for individual learners/certifications via the Anaplan Talent Builder program) |
 
 
 
